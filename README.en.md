@@ -16,9 +16,9 @@ The example slides come in three languages, with the same tips:
 
 | Language | File | View |
 |---|---|---|
-| Português | `slides.md` | [in the browser](https://rodbv.github.io/pybr2026-marp-teste/) · [PDF](https://rodbv.github.io/pybr2026-marp-teste/slides.pdf) |
-| English | `slides.en.md` | [in the browser](https://rodbv.github.io/pybr2026-marp-teste/en.html) · [PDF](https://rodbv.github.io/pybr2026-marp-teste/slides.en.pdf) |
-| Español | `slides.es.md` | [in the browser](https://rodbv.github.io/pybr2026-marp-teste/es.html) · [PDF](https://rodbv.github.io/pybr2026-marp-teste/slides.es.pdf) |
+| Português | `slides.md` | [in the browser](https://rodbv.github.io/pybr2026-marp-teste-teste/) · [PDF](https://rodbv.github.io/pybr2026-marp-teste-teste/slides.pdf) |
+| English | `slides.en.md` | [in the browser](https://rodbv.github.io/pybr2026-marp-teste-teste/en.html) · [PDF](https://rodbv.github.io/pybr2026-marp-teste-teste/slides.en.pdf) |
+| Español | `slides.es.md` | [in the browser](https://rodbv.github.io/pybr2026-marp-teste-teste/es.html) · [PDF](https://rodbv.github.io/pybr2026-marp-teste-teste/slides.es.pdf) |
 
 ![The 38 example slides, in the dark and light versions](docs/overview.png)
 
