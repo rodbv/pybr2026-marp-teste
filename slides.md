@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: pybr2026
-lang: pt-BR
+lang: es
 paginate: true
 footer: Python Brasil 2026
 title: Python Brasil 2026
@@ -11,93 +11,93 @@ title: Python Brasil 2026
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-<div class="selo">14 a 19<br>de outubro<br>de 2026<br>{Floripa/SC}</div>
+<div class="selo">14 al 19<br>de octubre<br>de 2026<br>{Floripa/SC}</div>
 
-# Título da sua palestra
+# Título de tu charla
 
-Modelo de slides da Python Brasil 2026
+Plantilla de diapositivas de la Python Brasil 2026
 
-**Seu nome aqui** · @seu_usuario
+**Tu nombre aquí** · @tu_usuario
 
 <!--
-- Que bom que você vai palestrar! O seu jeito de falar vale mais do que qualquer dica deste modelo.
-- Este arquivo é um modelo: cada slide de exemplo mostra um layout e traz dicas nas anotações. Use as que servirem para você.
-- Para começar: guarde uma cópia sem mudanças, escolha a versão escura ou a clara e copie os slides que quiser usar. O comentário _class no topo de cada slide escolhe o layout.
-- Ao reaproveitar um slide, apague estas anotações e escreva as suas.
+- ¡Qué bueno que vas a dar una charla! Tu manera de hablar vale más que cualquier consejo de esta plantilla.
+- Este archivo es una plantilla: cada diapositiva de ejemplo muestra un diseño y trae consejos en las notas. Usa los que te sirvan.
+- Para empezar: guarda una copia sin cambios, elige la versión oscura o la clara y copia las diapositivas que quieras usar. El comentario _class al inicio de cada diapositiva elige el diseño.
+- Al reutilizar una diapositiva, borra estas notas y escribe las tuyas.
 -->
 
 ---
 
 <!-- _class: frase -->
 
-# A sala está torcendo por você.
+# La sala quiere que te vaya bien.
 
-Cada slide deste modelo traz dicas nas anotações: aperte P para ver.
+Cada diapositiva de esta plantilla trae consejos en las notas: presiona P para verlos.
 
 <!--
-- Uma ideia por slide, em até duas linhas. Que frase o público deve levar da sala?
-- Quase toda pessoa palestrante fica nervosa. Se bater o nervosismo, fale para um rosto amigo na plateia.
+- Una idea por diapositiva, en dos líneas como máximo. ¿Qué frase quieres que se lleve el público?
+- Casi todas las personas que dan charlas se ponen nerviosas. Si llegan los nervios, háblale a una cara amiga entre el público.
 -->
 
 ---
 
 <!-- _class: palestrante -->
 
-![Foto de exemplo](img/foto-exemplo.png)
+![Foto de ejemplo](img/foto-exemplo-es.png)
 
-# Seu nome aqui
+# Tu nombre aquí
 
-### O que você faz · onde
+### Lo que haces · dónde
 
-- Quem abre a sessão costuma apresentar você
-- Com o tempo curto, este slide pode sair
-- Uma autodescrição ajuda quem não vê
+- Quien abre la sesión suele presentarte
+- Si hay poco tiempo, puedes quitar esta diapositiva
+- Una autodescripción ayuda a quien no ve
 
 <!--
-- Troque a caixa cinza pela sua foto: no Markdown, troque img/foto-exemplo.png pelo caminho da sua foto.
-- Quem abre a sessão costuma apresentar você; com o tempo curto, este slide pode sair.
-- Uma autodescrição ajuda quem não vê, por exemplo: “Sou a Maria, tenho 1,60 m, cabelo preto solto, óculos verdes e uma camiseta da PyLadies.”
+- Reemplaza la caja gris por tu foto: en el Markdown, pon la ruta de tu foto en lugar de img/foto-exemplo-es.png.
+- Quien abre la sesión suele presentarte; si hay poco tiempo, puedes quitar esta diapositiva.
+- Una autodescripción ayuda a quien no ve, por ejemplo: “Soy María, mido 1,60 m, tengo el pelo negro suelto, lentes de montura verde y una camiseta de PyLadies.”
 -->
 
 ---
 
-> Legibilidade conta.
+> La legibilidad es importante.
 
 The Zen of Python, PEP 20
 
-Dicas, <mark>não regras</mark>: use as que servirem para você.
+Consejos, <mark>no reglas</mark>: usa los que te sirvan.
 
 <!--
-- Até três linhas, com quem disse e onde. Vale conferir a autoria numa fonte primária.
-- As aspas verdes vêm do tema: comece a linha da citação com > e escreva sem aspas.
+- Hasta tres líneas, con quién lo dijo y dónde. Conviene confirmar la autoría en una fuente primaria.
+- Las comillas verdes vienen del tema: empieza la línea de la cita con > y escríbela sin comillas.
 -->
 
 ---
 
-## Na hora de começar
+## A la hora de empezar
 
-- Solte o ar devagar antes da primeira frase
-- O público está do seu lado
-- Fale com calma e respire entre as frases
-- A palestra é sua, no seu ritmo
+- Suelta el aire despacio antes de la primera frase
+- El público está de tu lado
+- Habla con calma y respira entre frases
+- La charla es tuya, a tu ritmo
 
 <!--
-- De três a cinco tópicos por slide. Se o texto não couber, divida o conteúdo em dois slides.
+- De tres a cinco puntos por diapositiva. Si el texto no cabe, divide el contenido en dos diapositivas.
 -->
 
 ---
 
 ## Agenda
 
-1. A agenda mostra o caminho da palestra
-2. Três a cinco partes costumam bastar
-3. Volte a este slide entre uma parte e outra
-4. Cada parte pode abrir com um slide de seção
-5. Opcional: pode sair se o tempo for curto
+1. La agenda muestra el camino de la charla
+2. De tres a cinco partes suelen bastar
+3. Vuelve a esta diapositiva entre una parte y otra
+4. Cada parte puede empezar con una diapositiva de sección
+5. Opcional: puedes quitarla si hay poco tiempo
 
 <!--
-- A numeração é automática.
-- Voltar à agenda entre as partes ajuda o público a saber onde está.
+- La numeración es automática.
+- Volver a la agenda entre las partes ayuda al público a saber dónde está.
 -->
 
 ---
@@ -106,230 +106,230 @@ Dicas, <mark>não regras</mark>: use as que servirem para você.
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-# _01_ Uma seção para cada parte da agenda
+# _01_ Una sección para cada parte de la agenda
 
 <!--
-- O número entre sublinhados vai para o disco limão: # _01_ Título. O número acompanha a ordem da agenda.
+- El número entre guiones bajos va al disco verde lima: # _01_ Título. El número sigue el orden de la agenda.
 -->
 
 ---
 
 <!-- _class: duas-colunas -->
 
-## Texto no slide
+## Texto en la diapositiva
 
-### Em vez de
+### En lugar de
 
-- Parágrafos inteiros
-- Ler o slide em voz alta
-- Diminuir a fonte para caber
-- A “colinha” no slide
+- Párrafos enteros
+- Leer la diapositiva en voz alta
+- Reducir la letra para que quepa
+- El guion en la diapositiva
 
-### Experimente
+### Prueba
 
-- Uma ideia por slide
-- Falar o que o slide não diz
-- Dividir em dois slides
-- A “colinha” nas anotações
+- Una idea por diapositiva
+- Decir lo que la diapositiva no dice
+- Dividir en dos diapositivas
+- El guion en las notas
 
 <!--
-- Cada coluna tem o seu título: antes e depois, problema e solução.
-- O detalhe e a “colinha” vão para as anotações, que só você vê.
+- Cada columna tiene su título: antes y después, problema y solución.
+- El detalle y el guion van a las notas, que solo tú ves.
 -->
 
 ---
 
-## Imagens que explicam
+## Imágenes que explican
 
-![bg right:42%](img/imagem-exemplo.png)
+![bg right:42%](img/imagem-exemplo-es.png)
 
-- Um diagrama no lugar de um parágrafo
-- Uma imagem por ideia
-- Descreva para quem não vê
+- Un diagrama en lugar de un párrafo
+- Una imagen por idea
+- Descríbela para quien no ve
 
 <!--
-- A caixa cinza marca o lugar da sua imagem: troque img/imagem-exemplo.png pelo caminho da sua. Com ![bg right:42%](arquivo.png), o texto ocupa o resto do slide.
-- Escreva o texto alternativo entre os colchetes de cada imagem que não seja de fundo.
-- Na fala, diga o que a imagem mostra, para quem não enxerga e para quem ouve a gravação.
+- La caja gris marca el lugar de tu imagen: cambia img/imagem-exemplo-es.png por la ruta de la tuya. Con ![bg right:42%](archivo.png), el texto ocupa el resto de la diapositiva.
+- Escribe el texto alternativo entre los corchetes de cada imagen que no sea de fondo.
+- Al hablar, di lo que muestra la imagen, para quien no ve y para quien escucha la grabación.
 -->
 
 ---
 
-## Licença e crédito
+## Licencia y crédito
 
-![bg left:42%](img/imagem-exemplo.png)
+![bg left:42%](img/imagem-exemplo-es.png)
 
-- Fotos suas ou de licença livre
-- A licença permite este uso?
-- Crédito da autoria no slide
-- Pelo menos 1000 px de altura
+- Fotos tuyas o de licencia libre
+- ¿La licencia permite este uso?
+- El crédito de autoría en la diapositiva
+- Al menos 1000 px de altura
 
 <!--
-- Uma foto na vertical preenche este espaço; uma foto na horizontal aparece recortada nas laterais. Troque left por right para a imagem ir à direita.
-- Confira se a licença da foto permite o uso numa palestra gravada e dê o crédito no formato “Foto: nome, licença, site”.
+- Una foto vertical llena este espacio; una foto horizontal aparece recortada en los lados. Cambia left por right para que la imagen vaya a la derecha.
+- Confirma que la licencia de la foto permite usarla en una charla grabada y da el crédito con el formato “Foto: nombre, licencia, sitio”.
 -->
 
 ---
 
 <!-- _class: tres-imagens -->
 
-## Capturas de tela legíveis
+## Capturas de pantalla legibles
 
-- ![Captura de tela de exemplo](img/captura-exemplo.png) Só a parte que importa
-- ![Captura de tela de exemplo](img/captura-exemplo.png) Fonte grande antes de capturar
-- ![Captura de tela de exemplo](img/captura-exemplo.png) Sem senhas, tokens nem e-mails
+- ![Captura de pantalla de ejemplo](img/captura-exemplo-es.png) Solo la parte que importa
+- ![Captura de pantalla de ejemplo](img/captura-exemplo-es.png) Letra grande antes de capturar
+- ![Captura de pantalla de ejemplo](img/captura-exemplo-es.png) Sin contraseñas, tokens ni correos
 
 <!--
-- Troque cada caixa cinza pela sua captura de tela: troque img/captura-exemplo.png pelo caminho da captura e descreva a captura entre os colchetes.
-- Antes de capturar a tela, aumente o zoom do navegador ou a fonte do terminal.
-- Confira se a captura mostra senhas, tokens, e-mails, abas ou notificações.
+- Reemplaza cada caja gris por tu captura de pantalla: pon su ruta en lugar de img/captura-exemplo-es.png y descríbela entre los corchetes.
+- Antes de capturar la pantalla, aumenta el zoom del navegador o el tamaño de letra de la terminal.
+- Revisa si la captura muestra contraseñas, tokens, correos, pestañas o notificaciones.
 -->
 
 ---
 
-## Código com cores
+## Código con colores
 
 ```python
 @dataclass
-class Palestra:
+class Charla:
     titulo: str
-    duracao_min: int = 25
+    duracion_min: int = 25
 
-    def cabe_no_slot(self, slot_min: int) -> bool:
-        # Reserva 5 minutos para perguntas
-        return self.duracao_min + 5 <= slot_min
+    def cabe_en_bloque(self, bloque_min: int) -> bool:
+        # Reserva 5 minutos para preguntas
+        return self.duracion_min + 5 <= bloque_min
 ```
 
 ![bg right:22% 70%](img/sticker-mago.png)
 
 <!--
-- Se a sua palestra não tem código, pode pular este slide.
-- Até 8 linhas e 60 colunas. Se o trecho for maior, divida em slides ou mostre só o que importa.
-- O Marp colore o código sozinho: abra o bloco com ```python, ou com a linguagem do trecho.
+- Si tu charla no tiene código, puedes saltar esta diapositiva.
+- Hasta 8 líneas de 60 caracteres. Si el fragmento es más largo, divídelo en varias diapositivas o muestra solo lo que importa.
+- Marp colorea el código por su cuenta: abre el bloque con ```python, o con el lenguaje del fragmento.
 -->
 
 ---
 
 <!-- _class: duas-colunas miuda -->
 
-## Um exemplo menor também ensina
+## Un ejemplo más corto también enseña
 
-### Muito pequeno para ler 😟
+### Muy pequeño para leer 😟
 
 ```python
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 
 @dataclass
-class Palestra:
+class Charla:
     titulo: str
     inicio: datetime
-    duracao_min: int = 25
+    duracion_min: int = 25
 
     @property
-    def fim(self) -> datetime:
-        return self.inicio + timedelta(minutes=self.duracao_min)
+    def fin(self) -> datetime:
+        return self.inicio + timedelta(minutes=self.duracion_min)
 
-    def conflita_com(self, outra: "Palestra") -> bool:
-        return self.inicio < outra.fim and outra.inicio < self.fim
+    def choca_con(self, otra: "Charla") -> bool:
+        return self.inicio < otra.fin and otra.inicio < self.fin
 
-    def cabe_no_slot(self, slot_min: int) -> bool:
-        # Reserva 5 minutos para perguntas
-        return self.duracao_min + 5 <= slot_min
+    def cabe_en_bloque(self, bloque_min: int) -> bool:
+        # Reserva 5 minutos para preguntas
+        return self.duracion_min + 5 <= bloque_min
 ```
 
-### Dá para ler do fundo 😊
+### Se lee desde el fondo 😊
 
 ```python
-def cabe(palestra, slot):
-    # 5 min para perguntas
-    fim = palestra.duracao + 5
-    return fim <= slot
+def cabe(charla, bloque):
+    # 5 min para preguntas
+    fin = charla.duracion + 5
+    return fin <= bloque
 ```
 
 <!--
-- Antes e depois de uma refatoração, ou duas formas de resolver o mesmo problema.
-- Cada coluna aceita até 30 colunas. A da esquerda, com a classe miuda, mostra como fica a letra miúda no telão.
-- Emoji também é recurso: um rosto triste ou feliz diz na hora qual lado é o exemplo a evitar. O título diz o mesmo em palavras, para quem não vê o emoji.
+- Antes y después de una refactorización, o dos formas de resolver el mismo problema.
+- Cada columna admite líneas de hasta 30 caracteres. La de la izquierda, con la clase miuda, muestra cómo se ve la letra diminuta proyectada.
+- El emoji también es un recurso: una cara triste o feliz muestra al instante qué lado es el ejemplo a evitar. El título dice lo mismo con palabras, para quien no ve el emoji.
 -->
 
 ---
 
 <!-- _class: numeros -->
 
-## Três números que ajudam
+## Tres números que ayudan
 
-- **18** pontos de letra: legível do fundo da sala
-- **1** ensaio em voz alta mostra o tempo real
-- **5** minutos para perguntas no fim
+- **18** puntos de letra como mínimo: se lee desde el fondo de la sala
+- **1** ensayo en voz alta muestra cuánto dura la charla
+- **5** minutos para preguntas al final
 
 <!--
-- Até três números, cada um com um rótulo do que mede.
-- O número vai em negrito no começo do item: - **18** rótulo.
+- Hasta tres números, cada uno con una etiqueta de lo que mide.
+- El número va en negrita al inicio del punto: - **18** etiqueta.
 -->
 
 ---
 
 <!-- _class: cartoes -->
 
-## Antes de subir ao palco
+## Antes de subir al escenario
 
-1. **Live coding** Plano B: capturas de tela ou um vídeo da demo.
-2. **Internet** Com vídeos e páginas baixados, você não depende da rede.
-3. **PDF** Leve os slides em PDF num pendrive.
+1. **Live coding** Plan B: capturas de pantalla o un video de la demo.
+2. **Internet** Con los videos y las páginas descargados, no dependes de la red.
+3. **PDF** Lleva las diapositivas en PDF en una memoria USB.
 
 <!--
-- Escolha o plano B que combina com a sua palestra e ensaie a troca para ele no seu computador.
-- Com palestras emendadas, nem sempre dá para testar o som; um vídeo legendado funciona sem áudio.
+- Elige el plan B que vaya con tu charla y ensaya el cambio a ese plan en tu computadora.
+- Con charlas seguidas, no siempre hay tiempo de probar el sonido; un video subtitulado funciona sin audio.
 -->
 
 ---
 
-## O seu dia de palestra
+## El día de tu charla
 
-| Quando | Sugestão |
+| Cuándo | Sugerencia |
 |---|---|
-| Antes do evento | Tirar dúvidas no grupo de palestrantes no Telegram |
-| Na véspera | Pega leve no karaokê :P Voz e descanso em dia |
-| No dia | Chegar cedo e conhecer a sala |
-| 15 min antes | Dar um oi ao voluntariado da sala |
-| Na palestra | Microfone perto da boca, mesmo ao olhar para o telão |
-| Depois | Publicar os slides no link do QR code |
+| Antes del evento | Preguntar en el grupo de Telegram de quienes presentan |
+| La víspera | Con calma en el karaoke :P Cuida la voz y descansa |
+| El día | Llegar temprano y conocer la sala |
+| 15 min antes | Saludar al equipo de voluntariado de la sala |
+| En la charla | Micrófono cerca de la boca, incluso cuando mires la pantalla |
+| Después | Subir las diapositivas al enlace de tu código QR |
 
 <!--
-- Tabelas em Markdown já saem com o cabeçalho limão.
-- Testar em casa o adaptador de vídeo e o espelhamento de tela deixa o dia mais tranquilo.
-- Cada sala tem alguém do voluntariado. Projetor, microfone, coragem: o que faltar, a gente ajuda.
+- Las tablas en Markdown ya salen con el encabezado verde lima.
+- Probar en casa el adaptador de video y la opción de duplicar pantalla hace el día más tranquilo.
+- Cada sala tiene una persona voluntaria. Proyector, micrófono, ánimo: si te falta algo, te ayudamos.
 -->
 
 ---
 
-## Versão do Python que você usa
+## La versión de Python que usas
 
-![Gráfico de barras com dados de exemplo: Python 3.10 8%, 3.11 15%, 3.12 29%, 3.13 33% e 3.14 15%](img/grafico-exemplo.png)
+![Gráfico de barras con datos de ejemplo: Python 3.10 8%, 3.11 15%, 3.12 29%, 3.13 33% y 3.14 15%](img/grafico-exemplo.png)
 
-Dados de exemplo. Para trocar os dados, veja as anotações deste slide.
+Datos de ejemplo. Para cambiar los datos, mira las notas de esta diapositiva.
 
 <!--
-- O Marp não tem gráfico nativo: o gráfico é uma imagem gerada com matplotlib. Troque os rótulos e os valores em scripts/grafico.py e rode uv run scripts/grafico.py.
-- Escreva os números do gráfico no texto alternativo, para leitores de tela.
-- Um gráfico, uma mensagem: diga em voz alta o que o público deve ver nas barras.
+- Marp no tiene gráficos nativos: el gráfico es una imagen hecha con matplotlib. Cambia las etiquetas y los valores en scripts/grafico.py y ejecuta uv run scripts/grafico.py.
+- Escribe los números del gráfico en el texto alternativo, para los lectores de pantalla.
+- Un gráfico, un mensaje: di en voz alta lo que el público debe ver en las barras.
 -->
 
 ---
 
 <!-- _class: fluxo -->
 
-## Um dia de evento
+## Un día de evento
 
-1. Palestras
+1. Charlas
 2. Coffee break
 3. Lightning talks
 4. PyBar
 
 <!--
-- Um fluxo mostra uma sequência: os passos de um processo, as etapas de um pipeline, a programação do dia.
-- Conte o fluxo da esquerda para a direita: primeiro, depois, no fim.
+- Un flujo muestra una secuencia: los pasos de un proceso, las etapas de un pipeline, el programa del día.
+- Recorre el flujo de izquierda a derecha: primero, después, al final.
 -->
 
 ---
@@ -338,42 +338,42 @@ Dados de exemplo. Para trocar os dados, veja as anotações deste slide.
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-![bg](img/fundo-exemplo.png)
+![bg](img/fundo-exemplo-es.png)
 
-Legenda da foto. Foto: Nome da Pessoa · CC BY 4.0
+Leyenda de la foto. Foto: Nombre de la persona · CC BY 4.0
 
 <!--
-- Troque o arquivo em ![bg](...). A legenda é o último parágrafo do slide.
-- Dê o crédito da foto na legenda, como no exemplo.
+- Cambia el archivo en ![bg](...). La leyenda es el último párrafo de la diapositiva.
+- Da el crédito de la foto en la leyenda, como en el ejemplo.
 -->
 
 ---
 
 <!-- _class: destaque -->
 
-## Sua palestra é para todo mundo
+## Tu charla es para todo el público
 
-- O público inclui crianças: conteúdo para todas as idades
-- Humor sem alvo e exemplos sem estereótipos
-- Na dúvida sobre algum conteúdo, a organização ajuda
+- Hay público infantil: contenido para todas las edades
+- Humor sin víctimas y ejemplos sin estereotipos
+- Si tienes dudas sobre algún contenido, la organización te ayuda
 
 <!--
-- O código de conduta da Python Brasil vale para todas as pessoas no evento, inclusive no palco: python.org.br/cdc.
-- Se você sofrer ou presenciar assédio, discriminação ou humilhação, procure a Equipe de Resposta.
+- El código de conducta de Python Brasil se aplica a todas las personas del evento, también en el escenario: python.org.br/cdc.
+- Si sufres o presencias acoso, discriminación o humillación, busca al Equipo de Respuesta.
 -->
 
 ---
 
-## Referências
+## Referencias
 
-- Código de conduta da Python Brasil [python.org.br/cdc](https://python.org.br/cdc)
-- Tema Marp para slides [marp.app](https://marp.app)
-- Fontes Roboto e Cascadia Mono [fonts.google.com](https://fonts.google.com)
+- Código de conducta de Python Brasil [python.org.br/cdc](https://python.org.br/cdc)
+- Tema Marp para diapositivas [marp.app](https://marp.app)
+- Fuentes Roboto y Cascadia Mono [fonts.google.com](https://fonts.google.com)
 - Verificador de contraste [webaim.org/resources/contrastchecker](https://webaim.org/resources/contrastchecker/)
 
 <!--
-- Um material por linha, com o nome e o endereço curto.
-- Uma página só com todos os links (um README, um gist ou um Linktree) cabe num QR code no encerramento.
+- Una referencia por línea, con el nombre y la URL corta.
+- Una sola página con todos los enlaces (un README, un gist o un Linktree) cabe en un código QR en el cierre.
 -->
 
 ---
@@ -382,20 +382,20 @@ Legenda da foto. Foto: Nome da Pessoa · CC BY 4.0
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-# Perguntas?
+# ¿Preguntas?
 
-**Seu nome aqui**
-_@seu_usuario_
-_voce@exemplo.com.br_
+**Tu nombre aquí**
+_@tu_usuario_
+_tu@ejemplo.com_
 
-![QR code para 2026.pythonbrasil.org.br](img/qr.png)
+![Código QR para 2026.pythonbrasil.org.br](img/qr.png)
 
-Troque pelo seu QR code: contato, slides ou site
+Reemplázalo por tu código QR: contacto, diapositivas o web
 
 <!--
-- O QR code pode levar ao seu contato, aos seus slides ou a uma página com tudo isso. Com uma página só, você troca os links depois sem mudar o QR code.
-- Para gerar o seu QR code: uv run scripts/qr.py https://seu-endereco. O script troca o arquivo img/qr.png. Depois, troque a legenda pelo link.
-- Você já tem o necessário. Os próximos slides repetem os layouts na versão clara, com dicas opcionais.
+- El código QR puede llevar a tu contacto, a tus diapositivas o a una página con todo. Con una sola página, puedes actualizar los enlaces después sin generar otro código QR.
+- Para generar tu código QR: uv run scripts/qr.py https://tu-direccion. El script reemplaza el archivo img/qr.png. Después, cambia la leyenda por el enlace.
+- Ya tienes lo necesario. Las siguientes diapositivas repiten los diseños en la versión clara, con consejos opcionales.
 -->
 
 ---
@@ -404,16 +404,16 @@ Troque pelo seu QR code: contato, slides ou site
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-<div class="selo">14 a 19<br>de outubro<br>de 2026<br>{Floripa/SC}</div>
+<div class="selo">14 al 19<br>de octubre<br>de 2026<br>{Floripa/SC}</div>
 
-# Título da sua palestra
+# Título de tu charla
 
-Versão clara, para salas iluminadas
+Versión clara, para salas iluminadas
 
-**Seu nome aqui** · @seu_usuario
+**Tu nombre aquí** · @tu_usuario
 
 <!--
-- Em sala muito iluminada ou com projetor fraco, o fundo claro fica mais legível.
+- En una sala muy iluminada o con un proyector débil, el fondo claro se lee mejor.
 -->
 
 ---
@@ -422,107 +422,107 @@ Versão clara, para salas iluminadas
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-# _02_ Uma pausa para respirar e beber água
+# _02_ Una pausa para respirar y tomar agua
 
 <!--
-- Entre uma parte e outra, faça uma pausa: respire e beba um gole de água.
-- A pausa parece longa para quem fala e curta para quem ouve.
+- Entre una parte y otra, haz una pausa: respira y toma un sorbo de agua.
+- La pausa parece larga para quien habla y corta para quien escucha.
 -->
 
 ---
 
 <!-- _class: light -->
 
-## A sua tela no telão
+## Tu pantalla en el proyector
 
-- Notificações desligadas (modo Não incomodar)
-- Papel de parede neutro
-- Só as abas e os programas da palestra
-- Janela anônima: o histórico não aparece ao digitar endereços
+- Notificaciones apagadas (modo No molestar)
+- Fondo de pantalla neutro
+- Solo las pestañas y los programas de la charla
+- Ventana privada: el historial no aparece al escribir direcciones
 
 <!--
-- O telão mostra tudo o que aparece na sua tela: ative o modo Não incomodar antes de subir ao palco.
-- Numa janela anônima, o navegador não sugere endereços do histórico.
+- El proyector muestra todo lo que aparece en tu pantalla: activa el modo No molestar antes de subir al escenario.
+- En una ventana privada, el navegador no sugiere direcciones del historial.
 -->
 
 ---
 
 <!-- _class: duas-colunas light -->
 
-## Um ensaio em voz alta ajuda
+## Un ensayo en voz alta ayuda
 
-### Ensaiar
+### Ensayar
 
-- Com cronômetro
-- Com alguém assistindo
-- No computador da palestra
+- Con cronómetro
+- Con alguien mirando
+- En la computadora con la que vas a presentar
 
-### Cortar
+### Recortar
 
-- O que passar do tempo
-- Detalhes que cabem nas anotações
-- Slides que você pula ao ensaiar
+- Lo que se pase del tiempo
+- Detalles que caben en las notas
+- Diapositivas que saltas al ensayar
 
 <!--
-- Ensaiar em voz alta mostra o tempo real e deixa a fala mais solta.
+- Ensayar en voz alta muestra cuánto dura la charla y hace que hables con más soltura.
 -->
 
 ---
 
 <!-- _class: light -->
 
-## Imagens acessíveis
+## Imágenes accesibles
 
-![bg right:42%](img/imagem-exemplo.png)
+![bg right:42%](img/imagem-exemplo-es.png)
 
-- Texto alternativo em toda imagem
-- Legenda curta se a imagem não for óbvia
-- Cor e emoji ajudam, mas não sozinhos
+- Texto alternativo en cada imagen
+- Leyenda corta si la imagen no es obvia
+- El color y el emoji ayudan, pero no por sí solos
 
 <!--
-- Cores e emojis comunicam bem, mas não podem ser a única diferença: parte do público tem daltonismo, baixa visão ou usa leitor de tela.
-- Junte a cor a um rótulo ou ícone: em vez de uma bolinha verde e uma vermelha, escreva também “passou” e “falhou”.
-- Todo texto do modelo tem contraste de 4,5:1 ou mais com o fundo. Ao usar outras cores, confira em webaim.org/resources/contrastchecker.
+- Los colores y los emojis comunican bien, pero no pueden ser la única diferencia: parte del público tiene daltonismo, baja visión o usa lector de pantalla.
+- Acompaña el color con una etiqueta o un ícono: en lugar de un punto verde y uno rojo, escribe también “pasó” y “falló”.
+- Todo el texto de la plantilla tiene un contraste de 4,5:1 o más con el fondo. Si usas otros colores, revísalos en webaim.org/resources/contrastchecker.
 -->
 
 ---
 
 <!-- _class: light -->
 
-## Falar com a sala
+## Hablar con la sala
 
-![bg left:42%](img/imagem-exemplo.png)
+![bg left:42%](img/imagem-exemplo-es.png)
 
-- Olhar para o público, se for confortável
-- As anotações do slide como apoio
-- Apontar com palavras, não com o mouse
+- Mirar al público, si te resulta cómodo
+- Las notas de la diapositiva como apoyo
+- Señalar con palabras, no con el puntero
 
 <!--
-- As anotações aparecem só para você na visão do apresentador. Olhar as anotações no palco é normal.
-- No HTML exportado, aperte P: a visão do apresentador mostra as anotações, o próximo slide e o cronômetro.
+- Las notas aparecen solo para ti en la vista del presentador. Mirar las notas en el escenario es normal.
+- En el HTML exportado, presiona P: la vista del presentador muestra las notas, la siguiente diapositiva y el cronómetro.
 -->
 
 ---
 
 <!-- _class: light -->
 
-## Código com cores
+## Código con colores
 
 ```python
 @dataclass
-class Palestra:
+class Charla:
     titulo: str
-    duracao_min: int = 25
+    duracion_min: int = 25
 
-    def cabe_no_slot(self, slot_min: int) -> bool:
-        # Reserva 5 minutos para perguntas
-        return self.duracao_min + 5 <= slot_min
+    def cabe_en_bloque(self, bloque_min: int) -> bool:
+        # Reserva 5 minutos para preguntas
+        return self.duracion_min + 5 <= bloque_min
 ```
 
-**Dica:** o cartão continua escuro no slide claro, para o código ter o mesmo contraste.
+**Consejo:** la tarjeta sigue oscura en la diapositiva clara, para que el código tenga el mismo contraste.
 
 <!--
-- Para gerar o código colorido, veja as anotações do slide Código com cores, na parte escura.
+- Para colorear el código, mira las notas de la diapositiva Código con colores, en la parte oscura.
 -->
 
 ---
@@ -531,100 +531,100 @@ class Palestra:
 
 > <mark>Pessoas</mark> &gt; Tecnologia
 
-Comunidade Python Brasil, 2016
+Comunidad Python Brasil, 2016
 
 <!--
-- No fundo branco, destaque a palavra principal com o marca-texto verde limão, <mark>palavra</mark>, e mantenha o texto preto.
-- O lema da comunidade Python Brasil desde 2016.
+- En el fondo blanco, destaca la palabra principal con el resaltador verde lima, <mark>palabra</mark>, y mantén el texto negro.
+- El lema de la comunidad Python Brasil desde 2016.
 -->
 
 ---
 
 <!-- _class: frase light -->
 
-# Menos texto, letra maior.
+# Menos texto, letra más grande.
 
 <!--
-- Com menos texto no slide, a letra fica maior e a atenção do público fica em você.
+- Con menos texto en la diapositiva, la letra crece y la atención del público se centra en ti.
 -->
 
 ---
 
 <!-- _class: destaque light -->
 
-## Fale de um jeito que acolha
+## Habla de forma acogedora
 
-- Mostre o passo a passo em vez de dizer que é fácil
-- Explique cada sigla na primeira vez
-- Pergunte quem já usou em vez de supor
+- Muestra el paso a paso en vez de decir que es fácil
+- Explica cada sigla la primera vez que aparece
+- Pregunta quién ya lo usó en vez de suponer
 
 <!--
-- O painel verde limão guarda a mensagem que a sala não pode perder, com até quatro tópicos curtos ao lado.
-- Para quem está começando, “é só” e “todo mundo sabe” soam como “você deveria saber”.
-- Para muita gente, a Python Brasil é a primeira conferência; um exemplo do dia a dia ajuda quem chegou agora.
+- El panel verde lima lleva el mensaje que la sala no puede perderse, con hasta cuatro puntos cortos al lado.
+- Para quien está empezando, “solo tienes que” y “todo el mundo sabe” suenan a “deberías saberlo”.
+- Para muchas personas, Python Brasil es su primera conferencia; un ejemplo cotidiano ayuda a quien acaba de llegar.
 -->
 
 ---
 
 <!-- _class: cartoes light -->
 
-## Depois da palestra
+## Después de la charla
 
-1. **Anotações** Anote o que funcionou, para a próxima palestra.
-2. **Conversa** Fique por perto: muitas perguntas aparecem no corredor.
-3. **Descanso** Aproveite o resto do evento. Você mereceu.
+1. **Notas** Anota lo que funcionó, para la próxima charla.
+2. **Conversación** Quédate cerca: muchas preguntas surgen en el pasillo.
+3. **Descanso** Disfruta el resto del evento. Te lo mereces.
 
 <!--
-- Anotar logo depois o que funcionou ajuda na próxima palestra.
-- Cansaço depois de palestrar é normal: descanse e aproveite o resto do evento.
+- Anotar justo después lo que funcionó ayuda en la próxima charla.
+- El cansancio después de presentar es normal: descansa y disfruta el resto del evento.
 -->
 
 ---
 
 <!-- _class: palestrante light -->
 
-![Foto de exemplo](img/foto-exemplo.png)
+![Foto de ejemplo](img/foto-exemplo-es.png)
 
-# Seu nome aqui
+# Tu nombre aquí
 
-### Pronomes, cargo e comunidade
+### Pronombres, cargo y comunidad
 
-- Onde o público encontra você
-- Três fatos, não um currículo
-- Uma foto recente
+- Dónde puede encontrarte el público
+- Tres datos, no un currículum
+- Una foto reciente
 
 <!--
-- Com os pronomes no slide, quem cita a sua palestra acerta como se referir a você.
+- Con los pronombres en la diapositiva, quien mencione tu charla sabrá cómo referirse a ti.
 -->
 
 ---
 
 <!-- _class: fluxo light -->
 
-## Do rascunho ao palco
+## Del borrador al escenario
 
-1. Escrever em Markdown
-2. Ensaiar em voz alta
-3. Exportar em PDF
-4. Apresentar
+1. Escribir en Markdown
+2. Ensayar en voz alta
+3. Exportar a PDF
+4. Presentar
 
 <!--
-- Uma lista numerada vira caixas com setas; o último passo leva o limão.
-- De três a cinco passos cabem numa linha. Para um fluxo com ramificações, divida em dois slides.
+- Una lista numerada se convierte en cajas con flechas; el último paso va en verde lima.
+- De tres a cinco pasos caben en una línea. Para un flujo con ramificaciones, divídelo en dos diapositivas.
 -->
 
 ---
 
 <!-- _class: light -->
 
-## Versão do Python que você usa
+## La versión de Python que usas
 
-![Gráfico de barras com dados de exemplo: Python 3.10 8%, 3.11 15%, 3.12 29%, 3.13 33% e 3.14 15%](img/grafico-exemplo-claro.png)
+![Gráfico de barras con datos de ejemplo: Python 3.10 8%, 3.11 15%, 3.12 29%, 3.13 33% y 3.14 15%](img/grafico-exemplo-claro.png)
 
-Dados de exemplo. Para trocar os dados, veja as anotações deste slide.
+Datos de ejemplo. Para cambiar los datos, mira las notas de esta diapositiva.
 
 <!--
-- Para trocar os dados, veja as anotações do slide Versão do Python que você usa, na parte escura.
+- Para cambiar los datos, mira las notas de la diapositiva La versión de Python que usas, en la parte oscura.
 -->
 
 ---
@@ -633,20 +633,20 @@ Dados de exemplo. Para trocar os dados, veja as anotações deste slide.
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-# Valeu!
+# ¡Gracias!
 
-**Seu nome aqui**
-_@seu_usuario_
-_voce@exemplo.com.br_
+**Tu nombre aquí**
+_@tu_usuario_
+_tu@ejemplo.com_
 
-![QR code para 2026.pythonbrasil.org.br](img/qr.png)
+![Código QR para 2026.pythonbrasil.org.br](img/qr.png)
 
-Troque pelo seu QR code: contato, slides ou site
+Reemplázalo por tu código QR: contacto, diapositivas o web
 
 <!--
-- Nas perguntas, repita cada pergunta no microfone, para a sala e a gravação.
-- “Não sei, posso ver e te respondo depois” é uma boa resposta. Uma pergunta que desrespeita o código de conduta não precisa de resposta.
-- Da organização: ficamos muito felizes por ter você na Python Brasil 2026. Conte com a gente: estamos aqui para apoiar você e torcer por você.
+- Durante las preguntas, repite cada una al micrófono, para la sala y la grabación.
+- “No lo sé, puedo revisarlo y te respondo después” es una buena respuesta. Una pregunta que no respeta el código de conducta no necesita respuesta.
+- De la organización: nos alegra mucho tenerte en Python Brasil 2026. Cuenta con la organización: estamos aquí para apoyarte y darte ánimo.
 -->
 
 ---
@@ -655,18 +655,19 @@ Troque pelo seu QR code: contato, slides ou site
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-## Figurinhas
+## Stickers
 
 ### Dazumbanho! Chegasse ao fim, ixtepô!
 
 ![w:290](img/lockup-on-dark.png) ![w:190](img/sticker-witch.png) ![w:220](img/sticker-mago-ola.png) ![w:130](img/sticker-mago.png) ![w:120](img/magia-explosao.png)
 
-![w:280](img/logo-assinatura.png) <span class="circulo">olha aqui</span> <mark>marca-texto</mark> ![w:96](img/icone-seta.png) ![w:96](img/icone-codigo.png)
+![w:280](img/logo-assinatura.png) <span class="circulo">mira aquí</span> <mark>resaltador</mark> ![w:96](img/icone-seta.png) ![w:96](img/icone-codigo.png)
 
-Identidade visual de Ana Terhorst, [anaterhorstdesign.com](https://anaterhorstdesign.com). Valeu, Ana!
+Identidad visual de Ana Terhorst, [anaterhorstdesign.com](https://anaterhorstdesign.com). ¡Gracias, Ana!
 
 <!--
-- Copie a linha da figurinha para o seu slide; o w:200 define a largura em pixels.
-- A figurinha marca-texto é um realce: troque a palavra dela, ou use <mark>palavra</mark> numa palavra sua. O círculo pixelado é <span class="circulo">palavra</span>.
-- Uma figurinha por slide costuma bastar.
+- “Dazumbanho! Chegasse ao fim, ixtepô!” es un saludo en el dialecto de Florianópolis, algo como “¡Caramba! Llegaste al final, ¡mira nada más!”.
+- Copia la línea del sticker a tu diapositiva; el w:200 define el ancho en píxeles.
+- El sticker resaltador es texto editable: cambia su palabra, o usa <mark>palabra</mark> en una palabra tuya. El círculo pixelado es <span class="circulo">palabra</span>.
+- Un sticker por diapositiva suele bastar.
 -->
