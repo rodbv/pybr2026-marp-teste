@@ -16,9 +16,9 @@ Las diapositivas de ejemplo existen en tres idiomas, con los mismos consejos:
 
 | Idioma | Archivo | Ver |
 |---|---|---|
-| Português | `slides.md` | [en el navegador](https://rodbv.github.io/pybr2026-marp/) · [PDF](https://rodbv.github.io/pybr2026-marp/slides.pdf) |
-| English | `slides.en.md` | [en el navegador](https://rodbv.github.io/pybr2026-marp/en.html) · [PDF](https://rodbv.github.io/pybr2026-marp/slides.en.pdf) |
-| Español | `slides.es.md` | [en el navegador](https://rodbv.github.io/pybr2026-marp/es.html) · [PDF](https://rodbv.github.io/pybr2026-marp/slides.es.pdf) |
+| Português | `slides.md` | [en el navegador](https://rodbv.github.io/pybr2026-marp-teste/) · [PDF](https://rodbv.github.io/pybr2026-marp-teste/slides.pdf) |
+| English | `slides.en.md` | [en el navegador](https://rodbv.github.io/pybr2026-marp-teste/en.html) · [PDF](https://rodbv.github.io/pybr2026-marp-teste/slides.en.pdf) |
+| Español | `slides.es.md` | [en el navegador](https://rodbv.github.io/pybr2026-marp-teste/es.html) · [PDF](https://rodbv.github.io/pybr2026-marp-teste/slides.es.pdf) |
 
 ![Las 38 diapositivas de ejemplo, en las versiones oscura y clara](docs/overview.png)
 

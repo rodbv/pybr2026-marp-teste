@@ -16,9 +16,9 @@ Os slides de exemplo existem em três idiomas, com as mesmas dicas:
 
 | Idioma | Arquivo | Ver |
 |---|---|---|
-| Português | `slides.md` | [no navegador](https://rodbv.github.io/pybr2026-marp/) · [PDF](https://rodbv.github.io/pybr2026-marp/slides.pdf) |
-| English | `slides.en.md` | [no navegador](https://rodbv.github.io/pybr2026-marp/en.html) · [PDF](https://rodbv.github.io/pybr2026-marp/slides.en.pdf) |
-| Español | `slides.es.md` | [no navegador](https://rodbv.github.io/pybr2026-marp/es.html) · [PDF](https://rodbv.github.io/pybr2026-marp/slides.es.pdf) |
+| Português | `slides.md` | [no navegador](https://rodbv.github.io/pybr2026-marp-teste/) · [PDF](https://rodbv.github.io/pybr2026-marp-teste/slides.pdf) |
+| English | `slides.en.md` | [no navegador](https://rodbv.github.io/pybr2026-marp-teste/en.html) · [PDF](https://rodbv.github.io/pybr2026-marp-teste/slides.en.pdf) |
+| Español | `slides.es.md` | [no navegador](https://rodbv.github.io/pybr2026-marp-teste/es.html) · [PDF](https://rodbv.github.io/pybr2026-marp-teste/slides.es.pdf) |
 
 ![Os 38 slides de exemplo, nas versões escura e clara](docs/overview.png)
 
